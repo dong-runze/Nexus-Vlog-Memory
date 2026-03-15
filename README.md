@@ -62,7 +62,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-vlog-memory.git
+git clone https://github.com/dong-runze/nexus-vlog-memory.git
 cd nexus-vlog-memory
 ```
 
