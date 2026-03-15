@@ -1,0 +1,43 @@
+# ─── Python ───────────────────────────────────
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ─── Environment & Secrets ────────────────────
+.env
+.env.*
+*.env
+
+# GCP Service Account keys – NEVER commit these
+secrets/
+*.json
+!test_assets/*.json
+
+# ─── Node / Frontend ──────────────────────────
+node_modules/
+wander_canvas_frontend/dist/
+wander_canvas_frontend/.vite/
+
+# ─── OS & Editor ──────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ─── Misc temp / test artifacts ───────────────
+*.log
+*.tmp
+test_out.*
+0.0.9
+_nul
+architecture_report.md
+implementation_plan.md
+walkthrough.md
