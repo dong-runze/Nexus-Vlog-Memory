@@ -8,6 +8,7 @@
 
 > **Nexus Vlog Memory** is an AI-powered, cinematic vlog generation platform. Upload a photo of any real-world landmark, and the system autonomously researches the location, writes a compelling narration, generates a custom 5-second AI video clip (via Google Veo), and stitches everything into a professional Vlog with crossfade transitions, landmark captions, and adaptive background music.
 
+
 ---
 
 ## ✨ Key Features
